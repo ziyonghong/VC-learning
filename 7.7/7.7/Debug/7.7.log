@@ -1,0 +1,17 @@
+﻿生成启动时间为 2019/5/20 21:24:01。
+     1>项目“E:\visual studio 2010\Projects\VC-learning\7.7\7.7\7.7.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\7.7.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\7.7.res" 7.7.rc 
+         
+     1>7.7.rc(66): error RC2121: BEGIN expected in menu
+         
+     1>已完成生成项目“E:\visual studio 2010\Projects\VC-learning\7.7\7.7\7.7.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.26
