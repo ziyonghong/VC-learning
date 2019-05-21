@@ -1,0 +1,24 @@
+﻿生成启动时间为 2019/5/21 0:10:54。
+     1>项目“E:\visual studio 2010\Projects\VC-learning\7.8\7.8\7.8.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\7.8.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\7.8.res" 7.8.rc 
+         
+     1>7.8.rc(37): error RC2135: file not found: forest
+         
+         
+     1>7.8.rc(38): error RC2135: file not found: MENU
+         
+         
+     1>7.8.rc(40): error RC2135: file not found:
+     1>7.8.rc(68): error RC2135: file not found: DIALOGEX
+         
+     1>已完成生成项目“E:\visual studio 2010\Projects\VC-learning\7.8\7.8\7.8.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.26
