@@ -1,0 +1,17 @@
+﻿生成启动时间为 2019/5/21 0:30:23。
+     1>项目“E:\visual studio 2010\Projects\VC-learning\7.9非模式对话框\7.9非模式对话框\7.9非模式对话框.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\7.9非模式对话框.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         e:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\7.9非模式对话框.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "7.9非模式对话框.cpp"
+         7.9非模式对话框.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\7.9非模式对话框.res" "7.9非模式对话框.rc" 
+         7.9
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppCommon.targets(404,5): error MSB6006: “rc.exe”已退出，代码为 1。
+     1>已完成生成项目“E:\visual studio 2010\Projects\VC-learning\7.9非模式对话框\7.9非模式对话框\7.9非模式对话框.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.48
